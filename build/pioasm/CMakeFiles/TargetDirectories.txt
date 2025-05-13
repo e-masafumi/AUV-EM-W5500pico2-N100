@@ -1,0 +1,7 @@
+/home/rockhopper/pico/pico-ws/AUV-EM-pico2/build/pioasm/CMakeFiles/pioasm.dir
+/home/rockhopper/pico/pico-ws/AUV-EM-pico2/build/pioasm/CMakeFiles/edit_cache.dir
+/home/rockhopper/pico/pico-ws/AUV-EM-pico2/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/rockhopper/pico/pico-ws/AUV-EM-pico2/build/pioasm/CMakeFiles/list_install_components.dir
+/home/rockhopper/pico/pico-ws/AUV-EM-pico2/build/pioasm/CMakeFiles/install.dir
+/home/rockhopper/pico/pico-ws/AUV-EM-pico2/build/pioasm/CMakeFiles/install/local.dir
+/home/rockhopper/pico/pico-ws/AUV-EM-pico2/build/pioasm/CMakeFiles/install/strip.dir
